@@ -1,0 +1,9 @@
+How to setup waveshare LCD 3.5 inch LCD on Raspberry Pi 3
+
+$ cd ~/
+$ git clone https://github.com/waveshare/LCD-show.git
+$ cd LCD-show/
+$ sudo ./LCD35-show
+$ sudo shutdown -h now
+
+
